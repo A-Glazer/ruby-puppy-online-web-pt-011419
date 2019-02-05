@@ -16,12 +16,12 @@ class Dog
 
 
   def self.all
-  binding.pry
-  @@all.each do |name|
+    binding.pry
+    @@all.each do |name|
 
     puts name
 
+    end
   end
-end
 
 end

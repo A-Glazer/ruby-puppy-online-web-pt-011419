@@ -16,7 +16,7 @@ binding.pry
 
 
   def self.all
-    
+
     @@all.each do |name|
 
     puts name

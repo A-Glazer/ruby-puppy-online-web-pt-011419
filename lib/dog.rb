@@ -24,4 +24,6 @@ def self.all
   end
 end
 
+end
+
 self.all

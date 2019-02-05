@@ -15,7 +15,7 @@ class Dog
   end
 
 
-def self.all
+  def self.all
   binding.pry
   @@all.each do |name|
 
@@ -26,4 +26,3 @@ end
 
 end
 
-self.all

@@ -24,3 +24,5 @@ class Dog
   end
 
 end
+
+self.all

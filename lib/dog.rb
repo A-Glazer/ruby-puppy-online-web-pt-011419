@@ -13,7 +13,7 @@ class Dog
     @@all.clear
   end
 
-  def self.all
+  def Dog.all
     binding.pry
   #  @@all.each do |name|
 
